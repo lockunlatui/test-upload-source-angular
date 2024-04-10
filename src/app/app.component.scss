@@ -1,0 +1,10 @@
+@use "../variables.scss" as *;
+
+.overall {
+  background-color: $black-color;
+  padding: 25px;
+}
+
+.col-11 {
+  margin-top: 25px;
+}
